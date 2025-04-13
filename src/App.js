@@ -38,7 +38,7 @@ function App() {
 
       <section>
         <h2>Projects</h2>
-        <p><strong>Nivi Chat</strong> </p>
+        <p><strong>Nivi Chat</strong> An chat application using java language that can be useful in mobile gaming... Chatbots or ai assistant etc </p>
       </section>
 
       <section>
